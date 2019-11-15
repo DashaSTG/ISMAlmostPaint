@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\OOPDraw\ShapeLibrary\bin\Debug\ShapeLibrary.dll
+C:\Users\ASUS\source\repos\OOPDraw\ShapeLibrary\bin\Debug\ShapeLibrary.pdb
+C:\Users\ASUS\source\repos\OOPDraw\ShapeLibrary\obj\Debug\ShapesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\source\repos\OOPDraw\ShapeLibrary\obj\Debug\ShapesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\OOPDraw\ShapeLibrary\obj\Debug\ShapeLibrary.dll
+C:\Users\ASUS\source\repos\OOPDraw\ShapeLibrary\obj\Debug\ShapeLibrary.pdb

@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\OOPDraw\ISMPaint\bin\Debug\ISMPaint.exe.config
+C:\Users\ASUS\source\repos\OOPDraw\ISMPaint\bin\Debug\ISMPaint.exe
+C:\Users\ASUS\source\repos\OOPDraw\ISMPaint\bin\Debug\ISMPaint.pdb
+C:\Users\ASUS\source\repos\OOPDraw\ISMPaint\bin\Debug\ShapeLibrary.dll
+C:\Users\ASUS\source\repos\OOPDraw\ISMPaint\bin\Debug\ShapeLibrary.pdb
+C:\Users\ASUS\source\repos\OOPDraw\ISMPaint\obj\Debug\Better than Paint.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\source\repos\OOPDraw\ISMPaint\obj\Debug\ISMPaint.FormPaint.resources
+C:\Users\ASUS\source\repos\OOPDraw\ISMPaint\obj\Debug\ISMPaint.Properties.Resources.resources
+C:\Users\ASUS\source\repos\OOPDraw\ISMPaint\obj\Debug\Better than Paint.csproj.GenerateResource.Cache
+C:\Users\ASUS\source\repos\OOPDraw\ISMPaint\obj\Debug\Better than Paint.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\OOPDraw\ISMPaint\obj\Debug\ISMPaint.exe
+C:\Users\ASUS\source\repos\OOPDraw\ISMPaint\obj\Debug\ISMPaint.pdb
